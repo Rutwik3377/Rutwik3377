@@ -68,9 +68,9 @@ For me, every project is a journey — from brainstorming to deployment, where p
   <a href="mailto:rutwik3377@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://https://github.com/Rutwik3377" target="_blank">
+  <!-- <a href="https://https://github.com/Rutwik3377" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a> -->
 </p>
 
 ---
