@@ -62,9 +62,7 @@ For me, every project is a journey — from brainstorming to deployment, where p
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rutwik-k-33a8071b0
-
-" target="_blank">
+  <a href="https://www.linkedin.com/in/rutwik-k-33a8071b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rutwik3377@gmail.com">
