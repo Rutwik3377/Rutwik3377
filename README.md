@@ -82,8 +82,7 @@ For me, every project is a journey — from brainstorming to deployment, where p
 ---
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rutwik3377&theme=gradient&hide_border=false)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Rutwik3377&theme=gradient&hide_border=false)
 
 
 <!-- <p align="center">
