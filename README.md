@@ -81,8 +81,9 @@ For me, every project is a journey — from brainstorming to deployment, where p
 
 ---
 ## 🔥 GitHub Streak Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rutwik3377&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rutwik3377&theme=gradient&hide_border=false" />
 </p>
 
 
