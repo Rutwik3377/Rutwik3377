@@ -80,10 +80,11 @@ For me, every project is a journey — from brainstorming to deployment, where p
 > “Code is not just about solving problems — it’s about crafting experiences that last.”
 
 ---
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rutwik3377&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rutwik3377&theme=radica)
 
 <!-- <p align="center">
   🌐 *Made with ❤️ by Rutwik*
