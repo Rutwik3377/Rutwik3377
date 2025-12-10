@@ -81,6 +81,10 @@ For me, every project is a journey — from brainstorming to deployment, where p
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rutwik3377&theme=radica)
+
 <!-- <p align="center">
   🌐 *Made with ❤️ by Rutwik*
 </p> -->
